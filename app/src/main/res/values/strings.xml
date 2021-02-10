@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">E Menu</string>
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="all_posts">All Posts</string>
+    <string name="saved_jwt_key_name">JWT</string>
+    <string name="saved_email_key_name">EMAIL</string>
+</resources>
