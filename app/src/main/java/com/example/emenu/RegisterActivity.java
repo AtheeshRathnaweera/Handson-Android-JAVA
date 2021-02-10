@@ -51,6 +51,7 @@ public class RegisterActivity extends AppCompatActivity {
                     if (!regProp.get("rowNumber").equals("-1")) {
                         Intent intent = new Intent(RegisterActivity.this, MainActivity.class);
                         startActivity(intent);
+                        finish();
                     } else {
                         Toast.makeText(getApplicationContext(), regProp.getProperty("message"), Toast.LENGTH_SHORT).show();
                     }

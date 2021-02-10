@@ -6,4 +6,6 @@
     <string name="all_posts">All Posts</string>
     <string name="saved_jwt_key_name">JWT</string>
     <string name="saved_email_key_name">EMAIL</string>
+    <string name="enter_the_password">Enter the password</string>
+    <string name="enter_the_email">Enter the email</string>
 </resources>
